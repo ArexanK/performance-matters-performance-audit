@@ -26,6 +26,10 @@ Toon een screenshot van de performance test.
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
 
 
+## Pagespeed testing Report from Apr 20, 2023, 10:41:00 AM
+https://pagespeed.web.dev/analysis/https-webflow-com/xlqct365vk?form_factor=desktop
+
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
