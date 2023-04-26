@@ -21,10 +21,10 @@ Webflow heeft een leeromgeving waar veel videos en afbeeldingen worden gebruikt.
 
 
  
-Performance test 
+# Performance test 
 <img width="1119" alt="Screenshot 2023-04-20 at 10 47 11" src="https://user-images.githubusercontent.com/94745953/234301337-47e43f9c-d26d-4d67-9206-6da24d4662a7.png">
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+Mijn testbevindingen zijn te vinden in 
 
 
 ## Pagespeed testing Report from Apr 20, 2023, 10:41:00 AM
